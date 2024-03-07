@@ -1,0 +1,20 @@
+{{#extend "layouts/main"}}
+    {{#content "body"}}
+        <h2>All Blog Posts</h2>
+        {{#if posts.length}}
+            <ul>
+                {{#each posts}}
+                    <li>
+                        <h3>{{title}}</h3>
+                        <p>{{content}}</p>
+                        <p>Author: {{author}}</p>
+                        <p>Published on: {{createdAt}}</p>
+                        <a href="/posts/{{id}}">Read more</a>
+                    </li>
+                {{/each}}
+            </ul>
+        {{else}}
+            <p>No posts available.</p>
+        {{/if}}
+    {{/content}}
+{{/extend}}
