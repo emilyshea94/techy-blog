@@ -1,0 +1,10 @@
+{
+    "blogTitle": "My Dog Blog",
+    "author": "Emily",
+    "description": "A blog about dogs",
+    "postsPerPage": 10,
+    "socialMedia": {
+      "twitter": "",
+      "github": "https://github.com/emilyshea94"
+    }
+  }
