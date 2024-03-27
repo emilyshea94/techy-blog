@@ -7,3 +7,6 @@ I havent been able to get into my Heroku because my key (my phone) was damaged b
 And because I cant get my server to work Im not able to view it on a local server. Im hoping to be able to work on this challenge further and get into my Heroku and get my local server to work.
 I just want to get this submitted for now so that I dont have a missing assignment. 
 I'm hoping my code that I have written will work as I've compared it to previous challenges that are similar. 
+
+## Credits 
+I did have help from a tutor from the 
